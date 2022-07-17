@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "nombre": "Diana",
+        "apellidop": "Bolanos",
+        "apellidom": "Chanona"
+    },
+    {
+        "id": 2,
+        "nombre": "Isaac",
+        "apellidop": "Bezares",
+        "apellidom": "Barajas"
+    }
+]
