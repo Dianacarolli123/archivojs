@@ -26,61 +26,61 @@
     {
           "description": "description1",
           "tittle": "tittle1",
-          "idbussines": 1,
+          "idbussines": "1",
           "imageurl": "imageurl1"
       },
       {
           "description": "description2",
           "tittle": "tittle2",
-          "idbussines": 2,
+          "idbussines": "2",
           "imageurl": "imageurl2"
       },
       {
           "description": "description3",
           "tittle": "tittle3",
-          "idbussines": 3,
+          "idbussines": "3",
           "imageurl": "imageurl3"
       },
       {
           "description": "description4",
           "tittle": "tittle4",
-          "idbussines": 4,
+          "idbussines": "4",
           "imageurl": "imageurl4"
       },
       {
           "description": "description5",
           "tittle": "tittle5",
-          "idbussines": 5,
+          "idbussines": "5",
           "imageurl": "imageurl5"
       },
       {
           "description": "description6",
           "tittle": "tittle6",
-          "idbussines": 6,
+          "idbussines": "6",
           "imageurl": "imageurl6"
       },
       {
           "description": "description7",
           "tittle": "tittle7",
-          "idbussines": 7,
+          "idbussines": "7",
           "imageurl": "imageurl7"
       },
       {
           "description": "description8",
           "tittle": "tittle8",
-          "idbussines": 8,
+          "idbussines": "8",
           "imageurl": "imageurl8"
       },
       {
           "description": "description9",
           "tittle": "tittle9",
-          "idbussines": 9,
+          "idbussines": "9",
           "imageurl": "imageurl9"
       },
       {
           "description": "description10",
           "tittle": "tittle10",
-          "idbussines": 10,
+          "idbussines": "10",
           "imageurl": "imageurl10"
       }
       
